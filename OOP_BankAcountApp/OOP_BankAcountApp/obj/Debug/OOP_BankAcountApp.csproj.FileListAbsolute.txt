@@ -1,0 +1,9 @@
+D:\28-12-2014\OOP_BankAcountApp\OOP_BankAcountApp\bin\Debug\OOP_BankAcountApp.exe.config
+D:\28-12-2014\OOP_BankAcountApp\OOP_BankAcountApp\bin\Debug\OOP_BankAcountApp.exe
+D:\28-12-2014\OOP_BankAcountApp\OOP_BankAcountApp\bin\Debug\OOP_BankAcountApp.pdb
+D:\28-12-2014\OOP_BankAcountApp\OOP_BankAcountApp\obj\Debug\OOP_BankAcountApp.csprojResolveAssemblyReference.cache
+D:\28-12-2014\OOP_BankAcountApp\OOP_BankAcountApp\obj\Debug\OOP_BankAcountApp.Form1.resources
+D:\28-12-2014\OOP_BankAcountApp\OOP_BankAcountApp\obj\Debug\OOP_BankAcountApp.Properties.Resources.resources
+D:\28-12-2014\OOP_BankAcountApp\OOP_BankAcountApp\obj\Debug\OOP_BankAcountApp.csproj.GenerateResource.Cache
+D:\28-12-2014\OOP_BankAcountApp\OOP_BankAcountApp\obj\Debug\OOP_BankAcountApp.exe
+D:\28-12-2014\OOP_BankAcountApp\OOP_BankAcountApp\obj\Debug\OOP_BankAcountApp.pdb

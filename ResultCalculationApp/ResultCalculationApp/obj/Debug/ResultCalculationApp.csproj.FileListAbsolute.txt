@@ -1,0 +1,15 @@
+F:\FTFL\ASP.net\Home\24.12.2014\ResultCalculationApp\ResultCalculationApp\bin\Debug\ResultCalculationApp.exe.config
+F:\FTFL\ASP.net\Home\24.12.2014\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.csprojResolveAssemblyReference.cache
+F:\FTFL\ASP.net\Home\24.12.2014\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.Properties.Resources.resources
+F:\FTFL\ASP.net\Home\24.12.2014\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.csproj.GenerateResource.Cache
+F:\FTFL\ASP.net\Home\24.12.2014\ResultCalculationApp\ResultCalculationApp\bin\Debug\ResultCalculationApp.exe
+F:\FTFL\ASP.net\Home\24.12.2014\ResultCalculationApp\ResultCalculationApp\bin\Debug\ResultCalculationApp.pdb
+F:\FTFL\ASP.net\Home\24.12.2014\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.exe
+F:\FTFL\ASP.net\Home\24.12.2014\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.pdb
+F:\FTFL\ASP.net\Home\24.12.2014\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.ResultCalculatorUI.resources
+H:\New folder\Day_11 (24.12.2014)\HOME (24.12.2014)\ResultCalculationApp\ResultCalculationApp\bin\Debug\ResultCalculationApp.exe.config
+H:\New folder\Day_11 (24.12.2014)\HOME (24.12.2014)\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.exe
+H:\New folder\Day_11 (24.12.2014)\HOME (24.12.2014)\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.pdb
+C:\Users\Taseen\Desktop\HOME (24.12.2014)\ResultCalculationApp\ResultCalculationApp\bin\Debug\ResultCalculationApp.exe.config
+C:\Users\Taseen\Desktop\HOME (24.12.2014)\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.exe
+C:\Users\Taseen\Desktop\HOME (24.12.2014)\ResultCalculationApp\ResultCalculationApp\obj\Debug\ResultCalculationApp.pdb
